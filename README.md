@@ -3,15 +3,13 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.7 kB Used in GitHub's Storage 
- > 
-> 🏆 55 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,18 +44,19 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       █████████████████████████   99.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   8 hrs 20 mins       ████████████████████████░   97.81 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-D                        4 hrs 34 mins       ████████████████████████░   94.85 % 
-86139                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+D                        7 hrs 40 mins       ██████████████████████░░░   89.95 % 
+86139                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,6 +74,6 @@ Vue                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2024 18:44:00 UTC
+ Last Updated on 16/12/2024 18:47:17 UTC
 <!--END_SECTION:waka-->
 

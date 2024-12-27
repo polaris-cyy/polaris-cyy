@@ -3,9 +3,9 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,21 +44,19 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 52 mins       █████████████████████████   100.00 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   3 hrs 45 mins       █████████████████████████   99.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-D                        5 hrs 54 mins       ███████████████░░░░░░░░░░   59.87 % 
-VertinAI                 3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.64 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-PaddleOCR                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-86139                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VertinAI                 3 hrs 24 mins       ███████████████████████░░   90.63 % 
+Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+86139                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 💻 Operating System: 
-Windows                  9 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,6 +75,6 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:42:47 UTC
+ Last Updated on 27/12/2024 18:42:29 UTC
 <!--END_SECTION:waka-->
 

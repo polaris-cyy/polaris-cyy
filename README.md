@@ -5,7 +5,7 @@ I am a senior student at Ocean University of China, majoring in Computer Science
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,19 +44,18 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 45 mins       █████████████████████████   99.99 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   41 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VertinAI                 3 hrs 24 mins       ███████████████████████░░   90.63 % 
-Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-86139                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Unknown Project          24 mins             ███████████████░░░░░░░░░░   60.13 % 
+VertinAI                 16 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
+86139                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,6 +74,6 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 18:42:29 UTC
+ Last Updated on 28/12/2024 18:41:04 UTC
 <!--END_SECTION:waka-->
 

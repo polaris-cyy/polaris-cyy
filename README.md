@@ -11,6 +11,8 @@ I am a senior student at Ocean University of China, majoring in Computer Science
 
 > 📦 175.8 kB Used in GitHub's Storage 
  > 
+> 🏆 63 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -44,18 +46,16 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   41 mins             █████████████████████████   100.00 % 
+Python                   24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          24 mins             ███████████████░░░░░░░░░░   60.13 % 
-VertinAI                 16 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
-86139                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Unknown Project          24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,6 +74,6 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:41:04 UTC
+ Last Updated on 29/12/2024 18:40:44 UTC
 <!--END_SECTION:waka-->
 

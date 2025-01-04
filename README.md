@@ -3,13 +3,15 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +46,17 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   45 mins             █████████████████████████   100.00 % 
+Python                   35 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             ██████████████░░░░░░░░░░░   57.86 % 
-VertinAI                 19 mins             ███████████░░░░░░░░░░░░░░   42.14 % 
+VertinAI                 19 mins             ██████████████░░░░░░░░░░░   54.79 % 
+Unknown Project          15 mins             ███████████░░░░░░░░░░░░░░   45.21 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -73,6 +75,6 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:43:11 UTC
+ Last Updated on 04/01/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
 

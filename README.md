@@ -3,7 +3,7 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -44,18 +44,20 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             █████████████████████████   100.00 % 
+Python                   1 hr 2 mins         █████████████████████████   99.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VertinAI                 19 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
-86139                    17 mins             ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Unknown Project          15 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+VertinAI                 19 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
+86139                    17 mins             ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Unknown Project          15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Wav2Lip-master           9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,6 +76,6 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 18:41:10 UTC
+ Last Updated on 06/01/2025 18:44:05 UTC
 <!--END_SECTION:waka-->
 

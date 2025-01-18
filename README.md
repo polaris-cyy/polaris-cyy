@@ -3,7 +3,7 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,20 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 7 mins        █████████████████████████   99.49 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-86139                    15 mins             █████████████████████████   100.00 % 
+SyncTalk-main            1 hr 53 mins        ██████████████████████░░░   88.10 % 
+86139                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,6 +75,6 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2025 18:42:04 UTC
+ Last Updated on 18/01/2025 18:39:47 UTC
 <!--END_SECTION:waka-->
 

@@ -44,21 +44,16 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 mins             ████████████████████████░   97.60 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SyncTalk-main            23 mins             ██████████████████████░░░   87.60 % 
-AD-NeRF-master           3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -76,6 +71,6 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 18:39:32 UTC
+ Last Updated on 26/01/2025 18:40:52 UTC
 <!--END_SECTION:waka-->
 

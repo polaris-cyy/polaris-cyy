@@ -3,7 +3,7 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -20,21 +20,21 @@ I am a senior student at Ocean University of China, majoring in Computer Science
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-🌆 Daytime                56 commits          ███████████░░░░░░░░░░░░░░   45.53 % 
-🌃 Evening                58 commits          ████████████░░░░░░░░░░░░░   47.15 % 
-🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+🌆 Daytime                57 commits          ███████████░░░░░░░░░░░░░░   45.97 % 
+🌃 Evening                58 commits          ████████████░░░░░░░░░░░░░   46.77 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Wednesday                27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Saturday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Monday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Wednesday                27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Saturday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 
 
@@ -44,16 +44,17 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 15 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VertinAI                 1 hr 15 mins        █████████████████████████   99.90 % 
+PaddleOCR                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,6 +72,6 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 18:42:15 UTC
+ Last Updated on 04/02/2025 18:43:12 UTC
 <!--END_SECTION:waka-->
 

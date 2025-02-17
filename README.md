@@ -3,7 +3,7 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,20 +44,21 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 4 mins       █████████████████████████   99.70 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Python                   11 hrs 24 mins      █████████████████████████   99.65 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gui2mesh                 8 hrs 26 mins       ████████████████░░░░░░░░░   64.38 % 
-VertinAI                 3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-86139                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-DNAEdit                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+gui2mesh                 9 hrs 22 mins       ████████████████████░░░░░   81.88 % 
+test                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+86139                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+DNAEdit                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+VertinAI                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Windows                  13 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,6 +76,6 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 18:40:48 UTC
+ Last Updated on 17/02/2025 18:42:53 UTC
 <!--END_SECTION:waka-->
 

@@ -3,15 +3,13 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 177.2 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,21 +44,20 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 36 mins      █████████████████████████   99.77 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   10 hrs 48 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gui2mesh                 8 hrs 48 mins       █████████████████░░░░░░░░   69.62 % 
-DNAEdit                  2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-test                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-86139                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-DNAOPTNew                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+gui2mesh                 6 hrs 47 mins       ████████████████░░░░░░░░░   62.72 % 
+DNAEdit                  2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+test                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+86139                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+DNAOPTNew                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  12 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -78,6 +75,6 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 18:43:53 UTC
+ Last Updated on 22/02/2025 18:41:05 UTC
 <!--END_SECTION:waka-->
 

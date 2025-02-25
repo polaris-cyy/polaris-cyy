@@ -3,15 +3,13 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,19 +44,19 @@ Sunday                   21 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 16 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DNAEdit                  2 hrs 35 mins       ███████████████░░░░░░░░░░   60.47 % 
-gui2mesh                 58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-86139                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-DNAOPTNew                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+SPARK                    1 hr 18 mins        ████████████░░░░░░░░░░░░░   47.95 % 
+DNAEdit                  54 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
+86139                    30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+20250224-SPARK           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,6 +73,6 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 18:45:52 UTC
+ Last Updated on 25/02/2025 18:46:03 UTC
 <!--END_SECTION:waka-->
 

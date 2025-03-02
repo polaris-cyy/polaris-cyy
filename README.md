@@ -11,8 +11,6 @@ I am a senior student at Ocean University of China, majoring in Computer Science
 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -76,6 +74,6 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:41:36 UTC
+ Last Updated on 02/03/2025 18:43:27 UTC
 <!--END_SECTION:waka-->
 

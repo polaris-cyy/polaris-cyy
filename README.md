@@ -3,7 +3,7 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -44,20 +44,21 @@ Sunday                   21 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 36 mins       █████████████████████████   99.98 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   7 hrs 10 mins       ████████████████████████░   97.04 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SPARK                    4 hrs 23 mins       ████████████████████████░   95.19 % 
-VertinAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-20250224-SPARK           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+SPARK                    5 hrs 22 mins       ██████████████████░░░░░░░   72.70 % 
+20250224-SPARK           1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+VertinAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,6 +75,6 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 18:45:34 UTC
+ Last Updated on 04/03/2025 18:46:08 UTC
 <!--END_SECTION:waka-->
 

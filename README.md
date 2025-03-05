@@ -3,13 +3,15 @@
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +46,22 @@ Sunday                   21 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 10 mins       ████████████████████████░   97.04 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Python                   8 hrs 13 mins       ████████████████████████░   97.41 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SPARK                    5 hrs 22 mins       ██████████████████░░░░░░░   72.70 % 
-20250224-SPARK           1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-VertinAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+SPARK                    3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
+DNAEdit                  2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+20250224-SPARK           1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Unknown Project          56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+VertinAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
-Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,6 +78,6 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/polaris-cyy/polaris-cyy/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:46:08 UTC
+ Last Updated on 05/03/2025 18:47:04 UTC
 <!--END_SECTION:waka-->
 

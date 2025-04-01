@@ -1,13 +1,18 @@
-I want you to brave the Storm with me. 
+# I want you to brave the Storm with me. 
+
 ---
+# Introduction
+
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
+
 ---
-Education
+# Education
 2021 - 2025 Ocean University of China, Computer Science, VUG group
+
 2025 - Present, Zhejiang University, Computer Science, GAPS
 
 ---
-Direction
+# Direction
 Computer vision, computer graphics
 
 ---

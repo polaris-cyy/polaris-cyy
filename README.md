@@ -1,6 +1,13 @@
-## Hi there 👋
+I want you to brave the Storm with me. 
 ---
 I am a senior student at Ocean University of China, majoring in Computer Science and Technology. I am very interested in neural rendering, 3D reconstruction, and digital humans, and I am eager to learn more.
+---
+Education
+2021 - 2025 Ocean University of China, Computer Science, VUG group
+2025 - Present, Zhejiang University, Computer Science, GAPS
+---
+Direction
+Computer vision, computer graphics
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2035%20mins-blue)

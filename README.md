@@ -9,11 +9,11 @@ I am a senior student at Ocean University of China, majoring in Computer Science
 # Education
 2021 - 2025 Ocean University of China, Computer Science, VUG group
 
-2025 - Present, Zhejiang University, Computer Science, GAPS
+2025 - Present, Zhejiang University, Computer Science, CAD & CG State Key Laboratory
 
 ---
 # Direction
-Computer vision, computer graphics
+Computer vision, computer graphics, 3D generation
 
 ---
 <!--START_SECTION:waka-->
